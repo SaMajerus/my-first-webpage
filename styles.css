@@ -1,3 +1,6 @@
+/* This is a comment. The bracketed text below signifies a CSS Rule. 
+In this case, it changes the color of the font for the header 'h1'.
+*/
 h1 {
   color: blue; 
 }
