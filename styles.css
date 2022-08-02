@@ -3,5 +3,23 @@ In this case, it changes the color of the font for the header 'h1'.
 */
 h1 {
   color: blue; 
-}
+  text-align: center; 
+} 
+
+h2 {
+  font-style: italic; 
+  text-align: center; 
+} 
+
+
+p {
+  font-family: sans-serif; 
+} 
+
+
+/* 'px' is short for 'pixels', which is itself a unit of measurement. */ 
+ul {
+  font-size: 20px; 
+  line-height: 30px; 
+} 
 
